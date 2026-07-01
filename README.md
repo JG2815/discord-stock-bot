@@ -46,7 +46,7 @@ A Python-based Discord bot that provides real-time stock market data, portfolio 
 ## 📦 Installation
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/discord-stock-bot.git  
+git clone https://github.com/JG2815/discord-stock-bot.git  
 cd discord-stock-bot  
 
 ---
